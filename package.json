@@ -1,6 +1,6 @@
 {
-    "name": "white",
-    "displayName": "White",
+    "name": "white-next",
+    "displayName": "White Next",
     "description": "Minimalist monochrome theme",
     "keywords": [
         "white",
@@ -9,8 +9,8 @@
         "minimal",
         "monochrome"
     ],
-    "version": "1.3.6",
-    "publisher": "arthurwhite",
+    "version": "1.3.7",
+    "publisher": "cinea",
     "author": {
         "name": "Arthur White"
     },
@@ -35,12 +35,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "White",
+                "label": "White Next",
                 "uiTheme": "vs",
                 "path": "./themes/White-color-theme.json"
             },
             {
-                "label": "White Night",
+                "label": "White Night Next",
                 "uiTheme": "vs-dark",
                 "path": "./themes/White-Night-color-theme.json"
             }
